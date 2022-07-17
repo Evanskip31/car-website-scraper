@@ -1,0 +1,61 @@
+,Car Name,Price,Year,Car Make,Car Model,Body Style,Condition Status,Mileage,Transmission Type,Engine Power,Fuel Type,Exterior Color,Interior Color,Stock Number,Vin Number
+0,2004 MERCEDES-BENZ E240," KSh1,080,000.00",2004,Mercedes-Benz,E240 W211,Sedan,Pre-Owned,"170,000Kms",Automatic,2600CC,Petrol,Dark Blue,Jet Black,HOC0177,HOCK2022X0177
+1,2006 ML350," KSh1,900,000.00",2006,Mercedes-Benz,ML350,SUV,Pre-Owned,"125,000Kms",Automatic,3500CC,Petrol,Silver,Ebony w/Perforated Leather Seating Surfaces,HOC0176,HOCK2022X0176
+2,2011 TOYOTA HILUX," KSh2,650,000.00",2011,Toyota,Hilux,Pickup,Pre-Owned,"112,000Kms",Manual,3000CC,Diesel,Blue,Beige,HOC0175,HOCK2022X0175
+3,2015 MAZDA CX-5," KSh2,250,000.00",2015,Mazda,CX-5,SUV,Foreign Used,"75,000Kms",Automatic,2200CC,Petrol,Grey,Jet Black,HOC0174,HOCK2022X0174
+4,2009 TOYOTA AURIS," KSh850,000.00",2009,Toyota,Auris,Hatchback,Pre-Owned,"112,000Kms",Automatic,1500CC,Petrol,Pearl White,Jet Black,HOC0173,HOCK2022X0173
+5,2014 MAZDA CX-5," KSh1,950,000.00",2014,Mazda,CX-5,SUV,Foreign Used,"91,000Kms",Automatic,2200CC,Diesel,Wine Red,Jet Black,HOC0172,HOCK2022X0172
+6,2015 MERCEDES-BENZ A180," KSh1,970,000.00",2015,Mercedes-Benz,A180,Hatchback,Foreign Used,"60,000Kms",Automatic,1560CC,Petrol,Red,Jet Black,HOC0171,HOCK2022X0171
+7,2012 NISSAN TEANA," KSh970,000.00",2012,Nissan,Teana 250XE,Sedan,Pre-Owned,"99,500Kms",Automatic,2490CC,Petrol,Silver,Beige,HOC0170,HOCK2022X0170
+8,2015 HONDA STEPWGN," KSh1,890,000.00",2015,Honda,Stepwagon,Van,Foreign Used,"50,000Kms",Automatic,2000CC,Petrol,Wine Red,Jet Black/Ck Ash,HOC0169,HOCK2022X0169
+9,2015 TOYOTA VOXY," KSh2,150,000.00",2015,Toyota,Voxy,Van,Foreign Used,"73,000Kms",Automatic,2000CC,Petrol,Black,Jet Black,HOC0168,HOCK2022X0168
+10,2014 TOYOTA HARRIER," KSh3,250,000.00",2014,Toyota,Harrier Premium,SUV,Foreign Used,"75,000Kms",Automatic Hybrid,2000CC,Petrol,Carbon Black Metallic,Ebony w/Perforated Leather Seating Surfaces,HOC0167,HOCK2022X0167
+11,2015 TOYOTA VOXY," KSh2,080,000.00",2015,Toyota,Voxy,Van,Foreign Used,"44,000Kms",Automatic,2000CC,Petrol,Silver,Jet Black,HOC0166,HOCK2022X0166
+12,2011 NISSAN SYLPHY," KSh870,000.00",2011,Nissan,Sylphy,Sedan,Pre-Owned,,Automatic,2000CC,Petrol,Silver,Jet Black,HOC0165,HOCK2022X0165
+13,2015 VOLKSWAGEN TOURAN," KSh1,680,000.00",2015,Volkswagen,Touran,Mini-Van,Foreign Used,"70,000Kms",Automatic,1400CC,Petrol,Pearl White,Jet Black,HOC0164,HOCK2022X0164
+14,2015 TOYOTA FIELDER ( NON-HYBRID)," KSh1,680,000.00",2015,Toyota,Fielder,S. Wagon,Foreign Used,"88,000Kms",Automatic,1500CC,Petrol,Silver,Jet Black,HOC0163,HOCK2022X0163
+15,1986 MERCEDES-BENZ W-124," KSh460,000.00",1986,Mercedes-Benz,W-124,Sedan,Pre-Owned,,Manual,2000CC,Petrol,Blue,Jet Black,HOC0162,HOCK2022X0162
+16,2015 NISSAN NOTE," KSh980,000.00",2015,Nissan,Note,Hatchback,Foreign Used,"50,000Kms",Automatic,1200CC,Petrol,Brown,Jet Black,HOC0161,HOCK2022X0161
+17,2015 DAIHATSU MIRA EIS," KSh780,000.00",2015,DAIHATSU,MIRA EIS,Hatchback,Foreign Used,,Automatic,650CC,Petrol,Pearl White,Jet Black,HOC0160,HOCK2022X0160
+18,2010 TOYOTA PRADO TX( SUNROOF )," KSh3,500,000.00",2010,Toyota,Prado TX,SUV,Pre-Owned,,Automatic,2700CC,Petrol,Pearl White,Ebony w/Perforated Leather Seating Surfaces,HOC0159,HOCK2022X0159
+19,2015 PEUGEOT 208," KSh1,050,000.00",2015,Peugeot,208,Hatchback,Foreign Used,"70,000Kms",Automatic,1200CC,Petrol,Brown,Jet Black,HOC0158,HOCK2022X0158
+20,2012 LANDCRUISER 48 VX," KSh6,500,002.00",2012,Toyota,LANDCRUISER V8 VX ( 2016 FACELIFT),SUV,Pre-Owned,"75,000Kms",Automatic,4600CC,Petrol,Black,Ebony w/Perforated Leather Seating Surfaces,HOC0157,HOCK2022X0157
+21,2015 BMW X5 M-SPORT," KSh6,500,000.00",2015,BMW,X5 M-SPORT,SUV,Foreign Used,"70,000Kms",Automatic Turbo,3000CC,Petrol,Black,Ebony w/Perforated Leather Seating Surfaces,HOC0156,HOCK2022X0156
+22,2015 NISSAN MARCH," KSh890,000.00",,Nissan,March,Hatchback,Foreign Used,"65,000Kms",Automatic,1300CC,Petrol,Silver,Jet Black,HOC0155,HOCK2022X0155
+23,2016 PEUGEOT 308," KSh1,690,000.00",2016,Peugeot,308,Hatchback,Foreign Used,"40,000Kms",Automatic Turbo,1200CC,Petrol,Dark Blue,Ebony w/Perforated Leather Seating Surfaces,HOC0154,HOCK2022X0154
+24,2015 AUDI A4," KSh2,550,000.00",2015,Audi,A4,Sedan,Foreign Used,"58,000Kms",Automatic,1800CC,Petrol,Pearl White,Ebony w/Perforated Leather Seating Surfaces,HOC0153,HOCK2022X0153
+25,2013 AUDI Q5 S-LINE," KSh3,250,000.00",2013,Audi,Q5 S-LINE,S. Wagon,Pre-Owned,"117,000Kms",Automatic,2000CC,Petrol,Pearl White,Jet Black,HOC0152,HOCK2022X0152
+26,2017 LAND ROVER DISCOVERY 5," KSh11,700,000.00",2017,Land Rover,Discovery 5,SUV,Foreign Used,"32,000Kms",Automatic,3000CC,Petrol,Brown,Jet Black/Dark Titanium,HOC0151,HOCK2022X0151
+27,2010 MERCEDES BENZ E300," KSh2,250,000.00",2010,Mercedes-Benz,E300,Sedan,Pre-Owned,83000Kms,Automatic,3000CC,Petrol,Grey,Jet Black,HOC0150,HOCK2022X0150
+28,2015 NISSAN NOTE," KSh990,000.00",2015,Nissan,Note,S. Wagon,Foreign Used,"40,000Kms",Automatic,1200CC,Petrol,Silver,Jet Black,HOC0149,HOCK2022X0149
+29,2014 VOLKSWAGEN GOLF," KSh1,595,000.00",2014,Volkswagen,Golf GTI MK7,S. Wagon,Foreign Used,"89,000Kms",Automatic,1400CC,Petrol,Blue,Jet Black,HOC0148,HOCK2022X0148
+30,2014 MERCEDES BENZ C180 AMG LINE," KSh3,300,000.00",2014,Mercedes-Benz,C180,Sedan,Foreign Used,"49,000Kms",Automatic,1600CC DIT TURBO,Petrol,Silver,Ebony w/Perforated Leather Seating Surfaces,HOC0147,HOCK2022X0147
+31,2014 MERCEDES BENZ C200 (AMG LINE)," KSh3,950,000.00",2014,Mercedes-Benz,C200,Sedan,Foreign Used,"40,000Kms",Automatic,1800CC,Petrol,Silver,,HOC0146,HOCK2022X0146
+32,2014 TOYOTA AXIO," KSh1,290,000.00",2014,Toyota,Axio,Sedan,Foreign Used,"69,000Kms",Automatic,1500CC,Petrol,Pearl White,,HOC0145,HOCK2022X0145
+33,2014 Volkswagen Golf GTI MK7," KSh2,300,000.00",2014,Volkswagen,Golf GTI MK7,S. Wagon,Foreign Used,"145,000Kms",Automatic,2000CC,Petrol,Black,,HOC0144,HOCK2022X0144
+34,2012 Toyota Vitz," KSh680,000.00",2012,Toyota,Vitz,S. Wagon,Pre-Owned,"89,000Kms",Automatic,1000CC,Petrol,Red,,HOC0143,HOCK2022X0143
+35,2010 Toyota Vitz," KSh599,000.00",2010,Toyota,Vitz,S. Wagon,Pre-Owned,"98,000Kms",Automatic,1300CC,Petrol,Silver,,HOC0142,HOCK2022X0142
+36,2010 Toyota Auris," KSh950,000.00",2010,Toyota,Auris,S. Wagon,Pre-Owned,"78,000Kms",Automatic,1500CC,Petrol,Red,,HOC0141,HOCK2022X0141
+37,2013 Nissan NV200," KSh945,000.00",2013,Nissan,NV200,Van,Pre-Owned,"107,000Kms",Automatic,1600CC,Petrol,Silver,,HOC0140,HOCK2022X0140
+38,2015 Mazda Axela Red," KSh1,750,000.00",2015,Mazda,Axela,S. Wagon,Foreign Used,"44,000Kms",Automatic,2000CC,Petrol,Red,,HOC0139,HOCK2022X0139
+39,2008 BMW 320i," KSh950,000.00",2008,BMW,320i,Sedan,Pre-Owned,"90,000Kms",Automatic,2000CC,Petrol,Silver,,HOC0138,HOCK2022X0138
+40,2005 Mercedes Benz E240 W211," KSh1,450,000.00",2005,Mercedes-Benz,E240 W211,Sedan,Pre-Owned,"108,000Kms",Automatic,2200CC,Petrol,Silver,,HOC0137,HOCK2022X0137
+41,2014 Nissan Teana XL," KSh1,650,000.00",2014,Nissan,Teana XL,Sedan,Foreign Used,"88,000Kms",Automatic,2450CC,Petrol,Black,,HOC0136,HOCK2022X0136
+42,2015 Mazda Axela Blue," KSh1,790,000.00",2015,Mazda,Axela,S. Wagon,Foreign Used,"98,000Kms",Automatic,2200CC,Petrol,Blue,,HOC0135,HOCK2022X0135
+43,2015 BMW X1," KSh2,500,000.00",2015,BMW,X1,SUV,Foreign Used,"138,000Kms",Automatic,1500CC,Petrol,Pearl,,HOC0134,HOCK2022X0134
+44,2008 Toyota Auris," KSh790,000.00",2008,Toyota,Auris,S. Wagon,Pre-Owned,"108,000Kms",Automatic,1500CC,Petrol,Black,,HOC0133,HOCK2022X0133
+45,2012 Nissan Juke," KSh980,000.00",2012,Nissan,Juke,S. Wagon,Pre-Owned,"88,000Kms",Automatic,1500CC,Petrol,Brown,,HOC0132,HOCK2022X0132
+46,2012 Nissan Sylphy," KSh890,000.00",2012,Nissan,Sylphy,Sedan,Foreign Used,"54,000Kms",Automatic,2000CC,Petrol,Blue,,HOC0131,HOCK2022X0131
+47,2005 Subaru Impreza," KSh599,000.00",2005,Subaru,Impreza,S. Wagon,Pre-Owned,"138,000Kms",Automatic,1500CC,Petrol,Silver,,HOC0130,HOCK2022X0130
+48,2015 Audi Q5 S-Line TFSI," KSh3,800,000.00",2015,Audi,Q5 S-Line TFSI,SUV,Foreign Used,"70,000Kms",Automatic,2000CC,Petrol,Black,,HOC0129,HOCK2022X0129
+49,2015 Volkswagen Beetle TSI," KSh1,550,000.00",2015,Volkswagen,Beetle TSI,S. Wagon,Foreign Used,"60,000Kms",Automatic,1200CC,Petrol,Silver,,HOC0128,HOCK2022X0128
+50,2016 BMW 320i M-Sport," KSh3,350,000.00",2016,BMW,320i M-Sport,Sedan,Foreign Used,"40,000Kms",Automatic,2000CC,Petrol,Blue,,HOC0127,HOCK2022X0127
+51,2015 Volvo XC60 T5," KSh3,380,000.00",2015,Volvo,XC60 T5,SUV,Foreign Used,"104,000Kms",Automatic,3000CC,Petrol,Black,,HOC0126,HOCK2022X0126
+52,2015 Subaru Legacy BS9," KSh2,150,000.00",2015,Subaru,Legacy BS9,Sedan,Foreign Used,"80,000Kms",Automatic,2500CC,Petrol,Grey,,HOC0125,HOCK2022X0125
+53,2013 Toyota Mark X," KSh1,890,000.00",2013,Toyota,Mark X,Sedan,Foreign Used,"54,000Kms",Automatic,2500CC V6 ENGINE,Petrol,Silver,,HOC0124,HOCK2022X0124
+54,2017 Nissan Note," KSh1,170,000.00",2017,Nissan,Note,S. Wagon,Foreign Used,"41,000Kms",Automatic,1200CC,Petrol,Black,,HOC0123,HOCK2022X0123
+55,2014 (2020 Facelift) Toyota Landcruiser V8 VX," KSh8,500,000.00",2014 (2020 Facelift),Toyota,Land Cruiser V8 VX,SUV,Foreign Used,"67,000Kms",Automatic,4600CC,Petrol,Black,,HOC0122,HOCK2022X0122
+56,2011 Toyota Belta," KSh720,000.00",2011,Toyota,Belta,Sedan,Pre-Owned,"101,000Kms",Automatic,1500CC,Petrol,Silver,,HOC0121,HOCK2022X0121
+57,2011 Mercedes Benz C200 Silver," KSh1,690,000.00",2011,Mercedes-Benz,C200,Sedan,Foreign Used,"85,000Kms",Automatic,1800CC,Petrol,Silver,,HOC0120,HOCK2022X0120
+58,2014 Peugeot 308," KSh1,350,000.00",2014,Peugeot,308,S. Wagon,Foreign Used,"65,000Kms",Automatic,1200CC,Petrol,Pearl,,HOC0119,HOCK2022X0119
+59,2008 Toyota RAV4," KSh1,290,000.00",2008,Toyota,RAV4,S. Wagon,Pre-Owned,"105,000Kms",Automatic,2360CC,Petrol,Pearl,,HOC0118,HOCK2022X0118
